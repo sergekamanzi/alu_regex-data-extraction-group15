@@ -1,4 +1,3 @@
-# marion (Product codes)
 product_code = "007LAVILLA"
 pattern = r'^\d{3}[A-Z]+'
 
